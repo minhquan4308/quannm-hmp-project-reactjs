@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "name": "Coding Anken 1815",
+      "detail": "Create Coding ",
+      "startDate": "2024/04/25",
+      "endDate": "2024/04/27",
+      "mode": "Easy",
+      "rating": 5,
+      "status": "InProgress",
+      "id": 1
+    },
+    {
+      "name": "PCL Anken 1824",
+      "detail": "Create PCL cho man hinh Request",
+      "startDate": "2024/04/23",
+      "endDate": "2024/04/23",
+      "mode": "Hard",
+      "rating": 5,
+      "status": "Closed",
+      "id": 2
+    },
+    {
+      "name": "Transfer spec Anken 1823",
+      "detail": "Book room transfer draft spec",
+      "startDate": "2024/04/24",
+      "endDate": "2024/04/24",
+      "mode": "Medium",
+      "rating": 5,
+      "status": "Open",
+      "id": 3
+    },
+    {
+      "name": "Anken 3000",
+      "detail": "Create Something",
+      "startDate": "2024/04/27",
+      "endDate": "2024/04/30",
+      "mode": "hard",
+      "rating": 5,
+      "status": "InProgress",
+      "id": 4
+    },
+    {
+      "name": "Anken 4000",
+      "detail": "Create AutoBOT",
+      "startDate": "2024/04/27",
+      "endDate": "2024/04/29",
+      "mode": "normal",
+      "rating": 5,
+      "status": "Closed",
+      "id": 5
+    }
+  ]
+}
